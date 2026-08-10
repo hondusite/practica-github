@@ -9,6 +9,7 @@ Enlace a supabase:
 <br>
 Imagen del diseño:
 ![Imagen](imagenes/diseño.png)
+
 |nombre tabla | Descripcion |
 |------------|------------|
 |productos   |Guarda los productos|
