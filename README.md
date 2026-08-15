@@ -4,6 +4,7 @@ Integrantes del grupo:
 - Juan Perez
 - Maria Sanchez
 - Ana García
+- Eliana Funez
 Enlace a supabase:
 [Enlace a supabase](https://supabase.com/dashboard/project/dkfyvkiicovtzmfsdexk/database/schemas)
 <br>
