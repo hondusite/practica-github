@@ -15,3 +15,7 @@ Imagen del diseño:
 |productos   |Guarda los productos|
 
 🌲
+
+## Practica de GitHub
+
+Actualizacion realizada para practicar el flujo de Fork, Branch, Commit y Pull Request.
