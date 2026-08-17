@@ -15,3 +15,8 @@ Imagen del diseño:
 |productos   |Guarda los productos|
 
 🌲
+# Practica realizados por Kenneth
+Se agregan datos del estudiante:
+    **Cuenta**: #33
+    **Nombre**: Kenneth Garcia
+    **Curso**: 11° "BTP"
